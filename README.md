@@ -22,10 +22,11 @@ Version 2 of the code introduces the following notable changes compared to Versi
 
 
 ## Version 1
-![Version 1](https://github.com/Mitraaaaa/Ping_pong/version%201/giff.gif)
+![giff](https://github.com/Mitraaaaa/Ping_pong/assets/83425856/aef36a37-a5b4-4b92-9442-4c835241d87c)
+
 
 ## Version 2
-![Version 2](https://github.com/Mitraaaaa/Ping_pong/version%202/giff2.gif)
+![](https://github.com/Mitraaaaa/Ping_pong/version%202/giff2.gif)
 
 
 ## Functions in Version 1:
