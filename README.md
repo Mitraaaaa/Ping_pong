@@ -1,4 +1,4 @@
-# Ping_pong
+![giff2_1](https://github.com/Mitraaaaa/Ping_pong/assets/83425856/78b1c302-acd9-463b-bf3c-bbb9aa812c19)# Ping_pong
  C++ program that implements the classic game Pong using the OpenGL library
 
 ## Overall explanation:
@@ -26,7 +26,7 @@ Version 2 of the code introduces the following notable changes compared to Versi
 
 
 ## Version 2
-![](https://github.com/Mitraaaaa/Ping_pong/version%202/giff2.gif)
+![giff2_1](https://github.com/Mitraaaaa/Ping_pong/assets/83425856/c7e5edd5-25f4-4087-9beb-ec3958a878db)
 
 
 ## Functions in Version 1:
