@@ -36,13 +36,21 @@ trying to use advanced mode to run rendering code on gpu using Glut & glsl langu
 ### version 5
 this version run rendering code on gpu on advanced mode using glfw & glsl language.
 in addition you can render the score line with your favorite font thanks to [OTR library](https://github.com/capnramses/opengl_text_rendering)
-## Version 1
+## version 1 quick look
 ![giff](https://github.com/Mitraaaaa/Ping_pong/assets/83425856/aef36a37-a5b4-4b92-9442-4c835241d87c)
 
 
-## Version 2
+## version 2 quick look
 ![giff2_1](https://github.com/Mitraaaaa/Ping_pong/assets/83425856/78b1c302-acd9-463b-bf3c-bbb9aa812c19)
 
+## version 3 quick look
+![im](https://github.com/user-attachments/assets/fc08de8e-22e2-44ee-aa3d-614c5c2f852f)
+
+## version 4 quick look
+![Screenshot from 2024-07-06 23-05-30](https://github.com/user-attachments/assets/544a88f1-8880-44e4-9d60-204085623ac6)
+
+## version 5 quick look
+![im](https://github.com/user-attachments/assets/c3147d22-caf7-42e2-a18d-97ce4d43072a)
 
 ## Note
 Read the attached document for each version for further informations.
