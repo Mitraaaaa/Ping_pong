@@ -2,20 +2,8 @@
 // Mitra Omrani
 // student number : 993613047
 
-#include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
-#include <cstdlib>
-#include <iostream>
-#if defined(__APPLE__)
-#define GL_SILENCE_DEPRECATION // there were some errors on my system and were removed adding this definition O_O
-#include <OpenGL/gl.h>
-#include <OpenGL/glu.h>
-#include <GLUT/glut.h>
-#else
-#include <GL/gl.h>
-#include <GL/glu.h>
-#endif
+#include <iostream> 
+#include <GL/glut.h>
 
 /*
  HOW TO PLAY:
